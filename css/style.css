@@ -13,7 +13,7 @@ body{
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5rem ;
+    padding: 0.8rem ;
 }
 
 #cabecera #tagline{
@@ -24,12 +24,16 @@ body{
 
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
 
-#container{
+#container h1{
     font-size: 20px;
+}
+
+#post{
+    padding: 1em;
 }
